@@ -36,13 +36,20 @@
 
 ![snake gif](https://github.com/dilliram-code/dilliram-code/blob/output/github-contribution-grid-snake.svg)
 
-## 🚀Top Languages Card  
+## 🚀 Top Languages Card  
 Shows the programming languages I use most across my GitHub projects.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilliram-code&layout=compact&theme=highcontrast)
 
+<hr>
 
+## 🚀 Learning Mindset
+<i> “Growth happens when comfort ends and curiosity begins.” </i> <br>
+Embracing challenges fuels progress and unlocks new possibilities every day.
+<hr>
 
+## ⚔️ Thanks for visiting! ⚔️
+Dive into my work, rise to the challenge, and let’s conquer the future together.
 <!-- ### 📊 GitHub Stats Card  
 Highlights my coding activity, languages, and contributions.
 
