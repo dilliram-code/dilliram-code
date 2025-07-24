@@ -1,4 +1,4 @@
-## Hey Aliens👋
+## Hey Aliens ![Pikachu](https://raw.githubusercontent.com/akshitagupta15june/Face-X/master/Recognition-using-CNN-and-keras/pikachu.gif)
 ### Dilli Ram here,
 
 <!--
