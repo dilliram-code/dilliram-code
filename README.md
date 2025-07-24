@@ -1,5 +1,5 @@
-## Hey Aliens![Pikachu](https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif)
-### Dilli Ram here
+# Hey Aliens! <img src="https://media.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" alt="waving hand picture gif" width='50'>
+## Dilli Ram here,
 
 
 <!--
