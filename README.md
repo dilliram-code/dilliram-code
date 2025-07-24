@@ -32,6 +32,10 @@
 
 <hr>
 
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/dilliram-code/dilliram-code/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!--
