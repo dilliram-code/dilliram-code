@@ -36,6 +36,19 @@
 
 ![snake gif](https://github.com/dilliram-code/dilliram-code/blob/output/github-contribution-grid-snake.svg)
 
+## 🚀Top Languages Card  
+Shows the programming languages I use most across my GitHub projects.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilliram-code&layout=compact&theme=highcontrast)
+
+
+
+<!-- ### 📊 GitHub Stats Card  
+Highlights my coding activity, languages, and contributions.
+
+![Dilli Ram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilliram-code&show_icons=true&theme=radical)
+-->
+
 
 <!--
 **dilliram-code/dilliram-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
