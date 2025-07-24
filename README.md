@@ -36,7 +36,15 @@
 
 ![snake gif](https://github.com/dilliram-code/dilliram-code/blob/output/github-contribution-grid-snake.svg)
 
+### 🐍 Activity & Contributions
 
+I believe collaboration sparks innovation. If you’ve got ideas, feedback, or opportunities to work together, feel free to reach out.  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dilliram-code/dilliram-code/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dilliram-code/dilliram-code/output/github-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/dilliram-code/dilliram-code/output/github-snake.svg" />
+</picture>
 <!--
 **dilliram-code/dilliram-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
