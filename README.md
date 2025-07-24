@@ -37,7 +37,6 @@
 ![snake gif](https://github.com/dilliram-code/dilliram-code/blob/output/github-contribution-grid-snake.svg)
 
 
-
 <!--
 **dilliram-code/dilliram-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
