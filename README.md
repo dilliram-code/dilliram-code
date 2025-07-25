@@ -32,6 +32,13 @@
 
 <hr>
 
+## 🐍 GitHub Activity Snake
+
+
+
+![GitHub Snake Dark](https://github.com/dilliram-code/dilliram-code/blob/output/github-contribution-grid-snake-dark.svg)
+
+
 ## 🚀 Top Languages Card  
 Shows the programming languages I use most across my GitHub projects.
 
