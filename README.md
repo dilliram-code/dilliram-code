@@ -32,12 +32,16 @@
 
 <hr>
 
-## 🐍 GitHub Activity Snake
+### 🐍 Activity & Contributions
+
+Great things happen when we work together. If you have ideas, projects, or feedback, I’m always open — let’s build something meaningful.
 
 
-
-![GitHub Snake Dark](https://github.com/dilliram-code/dilliram-code/blob/output/github-contribution-grid-snake-dark.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dilliram-code/dilliram-code/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dilliram-code/dilliram-code/output/github-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/dilliram-code/dilliram-code/output/github-snake.svg" />
+</picture>
 
 ## 🚀 Top Languages Card  
 Shows the programming languages I use most across my GitHub projects.
