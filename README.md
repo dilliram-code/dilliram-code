@@ -32,7 +32,7 @@
 
 <hr>
 
-### 🐍 Activity & Contributions
+### 🐍My Activity & Contributions
 
 Great things happen when we work together. If you have ideas, projects, or feedback, I’m always open — let’s build something meaningful.
 
