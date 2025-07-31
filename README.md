@@ -43,7 +43,7 @@ Great things happen when we work together. If you have ideas, projects, or feedb
   <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/dilliram-code/dilliram-code/output/github-snake.svg" />
 </picture>
 
-## 🚀 Top Languages Card  
+## 🎭 Languages I Code In
 Shows the programming languages I use most across my GitHub projects.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilliram-code&layout=compact&theme=highcontrast)
