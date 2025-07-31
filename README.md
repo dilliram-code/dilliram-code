@@ -6,7 +6,7 @@
 
 
 
-## 🚀 About Me  
+## 📝 About Me  
 - 📊 I'm a data science enthusiast on a journey to turn raw data into real-world insights.
 
 - 🧠 I love exploring how data, statistics, and machine learning can solve everyday problems and drive better decisions.
