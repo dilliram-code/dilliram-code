@@ -2,7 +2,7 @@
 ## <a href="https://dilliramchaudhary.com.np" target="_blank">Dilli Ram</a> here,
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=650&color=e3ff00&center=true&vCenter=true&width=800&lines=Data+Science+Learner+!;Machine+Learning+Explorer+!;Lifelong+Student+!" alt="Typing SVG" />
 
-### 📈Aspiring Data Scientist | 📚 DS Student | 👨‍🦱 Science Teacher
+### 📈 Aspiring Data Scientist | 📚 DS Student | 👨‍🦱 Science Teacher
 
 
 
