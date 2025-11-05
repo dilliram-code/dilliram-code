@@ -29,7 +29,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilliramchaudhary/)
 [![X (Twitter)](https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Dillu55640527)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dearjigri/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://dilliramchaudhary.com.np)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://www.dilliramchaudhary.com.np)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudharydr23@gmail.com)
 
 <hr>
