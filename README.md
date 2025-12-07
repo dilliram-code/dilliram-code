@@ -45,11 +45,12 @@ Great things happen when we work together. If you have ideas, projects, or feedb
   <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/dilliram-code/dilliram-code/output/github-snake.svg" />
 </picture>
 
-## 🎭 Languages I Code In
-Shows the programming languages I use most across my GitHub projects.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilliram-code&layout=compact&theme=highcontrast)
-
+## 🎭 My GitHub Stats
+<p>
+  
+  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilliram-code&theme=dracula" alt="dilliram"/>
+ 
+</p>
 <hr>
 
 ## 🚀 Learning Mindset
