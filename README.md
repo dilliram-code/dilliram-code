@@ -11,7 +11,7 @@
 
 - 🧠 I love exploring how data, statistics, and machine learning can solve everyday problems and drive better decisions.
 
-- 💻 Tools of the Trade: Python, Pandas, NumPy, Matplotlib, Scikit-learn, SQL, and a growing love for AI and deep learning.
+- 💻 Tools of the Trade: Python, Pandas, NumPy, Matplotlib, Scikit-learn, SQL,Pytorch, Tensorflow and a growing love for AI and deep learning.
 
 - 🛠️ I believe in learning by doing—projects are my favorite way to grow.
 
