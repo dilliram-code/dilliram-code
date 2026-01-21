@@ -18,7 +18,7 @@
 - #### 📈 Current Focus:
   
     - 🔭 I’m currently working on my portfolio to showcase the projects I have done so far.
-    - Working on personal data projects involving time series, regression, classification, and visual storytelling with data. Also exploring web dashboards and polishing my personal portfolio website.
+    - Working on personal data projects involving time regression, classification, and visual storytelling with data. Also exploring web dashboards and polishing my personal portfolio website.
 
 - 🌱 Always learning something new: from algorithms to storytelling, and from Jupyter notebooks to production-ready pipelines.
 
