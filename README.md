@@ -22,7 +22,7 @@
 
 - 🌱 Always learning something new: from algorithms to storytelling, and from Jupyter notebooks to production-ready pipelines.
 
-- 🧩 Let’s connect and explore the world of data together!
+- 🧩 Let’s connect, explore and conquer the world of data together!
 <hr>
 
 ## 👬 Let's Get Connected!
