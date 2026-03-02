@@ -1,0 +1,39 @@
+<svg width="100%" height="220" viewBox="0 0 1200 220"
+     xmlns="http://www.w3.org/2000/svg" role="img">
+
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="220" fill="url(#bg)" />
+
+  <!-- Wave -->
+  <path d="M0,140 
+           C200,190 400,80 600,120 
+           C800,160 1000,100 1200,130 
+           L1200,220 L0,220 Z"
+        fill="#0b1c22" opacity="0.85"/>
+
+  <!-- Title -->
+  <text x="50%" y="55%" text-anchor="middle"
+        fill="#ffffff"
+        font-size="52"
+        font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-weight="700">
+    MLOps Daily
+  </text>
+
+  <!-- Subtitle -->
+  <text x="50%" y="72%" text-anchor="middle"
+        fill="#d0e6f0"
+        font-size="18"
+        font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+    Learning • Building • Shipping ML Systems
+  </text>
+
+</svg>
