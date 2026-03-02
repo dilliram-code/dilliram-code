@@ -41,7 +41,7 @@
   <text x="50%" y="45%"
         text-anchor="middle"
         fill="#20B2AA"
-        font-size="52"
+        font-size="55"
         font-weight="700"
         font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif">
     Dilli Ram Chaudhary
@@ -51,7 +51,7 @@
   <text x="50%" y="62%"
         text-anchor="middle"
         fill="#4FFFB0"
-        font-size="22"
+        font-size="26"
         font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif">
     Data Science • MLOps • Systems
   </text>
