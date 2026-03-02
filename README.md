@@ -4,11 +4,7 @@
 ## I am <a href="https://www.dilliramchaudhary.com.np/" target="_blank">Dilli Ram</a>,
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=650&color=e3ff00&center=true&vCenter=true&width=800&lines=Aspiring+Data+Scientist+!;Machine+Learning+Explorer+!;AI+Researcher+!" alt="Typing SVG" />
 
-### 📈 AI Researcher| 📚 DS and AI Student
-
-
-
-## 📝 About Me  
+## ☆ About Me  
 - 📊 I'm a data science enthusiast on a journey to turn raw data into real-world insights.
 
 - 🧠 I love exploring how data, statistics, and machine learning can solve everyday problems and drive better decisions.
