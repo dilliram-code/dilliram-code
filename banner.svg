@@ -1,7 +1,8 @@
-<svg width="100%" height="220" viewBox="0 0 1200 220"
-     xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="100%" height="240" viewBox="0 0 1200 240"
+     xmlns="http://www.w3.org/2000/svg">
 
   <defs>
+    <!-- Gradient background -->
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0f2027"/>
       <stop offset="50%" stop-color="#203a43"/>
@@ -10,30 +11,49 @@
   </defs>
 
   <!-- Background -->
-  <rect width="1200" height="220" fill="url(#bg)" />
+  <rect width="1200" height="240" fill="url(#bg)" />
 
-  <!-- Wave -->
-  <path d="M0,140 
-           C200,190 400,80 600,120 
-           C800,160 1000,100 1200,130 
-           L1200,220 L0,220 Z"
-        fill="#0b1c22" opacity="0.85"/>
+  <!-- Animated wave 1 -->
+  <path fill="#0b1c22" opacity="0.85">
+    <animate attributeName="d"
+      dur="4s"
+      repeatCount="indefinite"
+      values="
+      M0,150 C200,120 400,180 600,150 C800,120 1000,180 1200,150 L1200,240 L0,240 Z;
+      M0,150 C200,180 400,120 600,160 C800,200 1000,120 1200,150 L1200,240 L0,240 Z;
+      M0,150 C200,120 400,180 600,150 C800,120 1000,180 1200,150 L1200,240 L0,240 Z
+      " />
+  </path>
+
+  <!-- Animated wave 2 (slower, layered) -->
+  <path fill="#102a32" opacity="0.6">
+    <animate attributeName="d"
+      dur="8s"
+      repeatCount="indefinite"
+      values="
+      M0,165 C300,145 500,195 700,165 C900,135 1050,185 1200,165 L1200,240 L0,240 Z;
+      M0,165 C300,195 500,145 700,175 C900,205 1050,145 1200,165 L1200,240 L0,240 Z;
+      M0,165 C300,145 500,195 700,165 C900,135 1050,185 1200,165 L1200,240 L0,240 Z
+      " />
+  </path>
 
   <!-- Title -->
-  <text x="50%" y="55%" text-anchor="middle"
-        fill="#ffffff"
-        font-size="52"
-        font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
-        font-weight="700">
-    MLOps Daily
+  <text x="50%" y="45%"
+        text-anchor="middle"
+        fill="#20B2AA"
+        font-size="48"
+        font-weight="700"
+        font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+    Dilli Ram Chaudhary
   </text>
 
   <!-- Subtitle -->
-  <text x="50%" y="72%" text-anchor="middle"
-        fill="#d0e6f0"
+  <text x="50%" y="62%"
+        text-anchor="middle"
+        fill="#4FFFB0"
         font-size="18"
         font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif">
-    Learning • Building • Shipping ML Systems
+    Data Science • MLOps • Systems
   </text>
 
 </svg>
