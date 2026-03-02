@@ -1,44 +1,57 @@
-<svg width="100%" height="260" viewBox="0 0 1200 240"
+<svg width="100%" height="260" viewBox="0 0 1200 260"
      xmlns="http://www.w3.org/2000/svg">
 
   <defs>
-    <!-- Gradient background -->
+    <!-- Background gradient -->
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0f2027"/>
       <stop offset="50%" stop-color="#203a43"/>
       <stop offset="100%" stop-color="#2c5364"/>
     </linearGradient>
+
+    <!-- Wide fade to GitHub dark background -->
+    <!-- GitHub dark bg ≈ #0d1117 -->
+    <linearGradient id="fadeToGitHubBlack" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0b1c22" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#0b1c22" stop-opacity="0.4"/>
+      <stop offset="70%" stop-color="#0d1117" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
   </defs>
 
   <!-- Background -->
-  <rect width="1200" height="240" fill="url(#bg)" />
+  <rect width="1200" height="260" fill="url(#bg)" />
 
-  <!-- Animated wave 1 -->
-  <path fill="#0b1c22" opacity="0.85">
+  <!-- Animated wave 1 (taller & faster) -->
+  <path fill="#0b1c22" opacity="0.9">
     <animate attributeName="d"
-      dur="4s"
+      dur="5s"
       repeatCount="indefinite"
       values="
-      M0,150 C200,120 400,180 600,150 C800,120 1000,180 1200,150 L1200,240 L0,240 Z;
-      M0,150 C200,180 400,120 600,160 C800,200 1000,120 1200,150 L1200,240 L0,240 Z;
-      M0,150 C200,120 400,180 600,150 C800,120 1000,180 1200,150 L1200,240 L0,240 Z
+      M0,145 C200,90 400,200 600,145 C800,90 1000,200 1200,145 L1200,260 L0,260 Z;
+      M0,145 C200,200 400,90 600,175 C800,230 1000,90 1200,145 L1200,260 L0,260 Z;
+      M0,145 C200,90 400,200 600,145 C800,90 1000,200 1200,145 L1200,260 L0,260 Z
       " />
   </path>
 
-  <!-- Animated wave 2 (slower, layered) -->
-  <path fill="#102a32" opacity="0.6">
+  <!-- Animated wave 2 (deeper layer, slower contrast) -->
+  <path fill="#102a32" opacity="0.75">
     <animate attributeName="d"
-      dur="8s"
+      dur="7s"
       repeatCount="indefinite"
       values="
-      M0,165 C300,145 500,195 700,165 C900,135 1050,185 1200,165 L1200,240 L0,240 Z;
-      M0,165 C300,195 500,145 700,175 C900,205 1050,145 1200,165 L1200,240 L0,240 Z;
-      M0,165 C300,145 500,195 700,165 C900,135 1050,185 1200,165 L1200,240 L0,240 Z
+      M0,170 C300,120 500,240 700,170 C900,110 1050,230 1200,170 L1200,260 L0,260 Z;
+      M0,170 C300,240 500,120 700,190 C900,260 1050,120 1200,170 L1200,260 L0,260 Z;
+      M0,170 C300,120 500,240 700,170 C900,110 1050,230 1200,170 L1200,260 L0,260 Z
       " />
   </path>
+
+  <!-- Broad bottom fade into GitHub black -->
+  <rect y="160" width="1200" height="100"
+        fill="url(#fadeToGitHubBlack)" />
 
   <!-- Title -->
-  <text x="50%" y="45%"
+  <text x="50%" y="42%"
         text-anchor="middle"
         fill="#20B2AA"
         font-size="55"
@@ -48,10 +61,10 @@
   </text>
 
   <!-- Subtitle -->
-  <text x="50%" y="62%"
+  <text x="50%" y="58%"
         text-anchor="middle"
         fill="#4FFFB0"
-        font-size="26"
+        font-size="25"
         font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif">
     Data Science • MLOps • Systems
   </text>
