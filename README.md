@@ -5,22 +5,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=650&color=e3ff00&center=true&vCenter=true&width=800&lines=Aspiring+Data+Scientist+!;Machine+Learning+Explorer+!;AI+Researcher+!" alt="Typing SVG" />
 
 ## ☆ About Me  
-- 📊 I'm a data science enthusiast on a journey to turn raw data into real-world insights.
 
-- 🧠 I love exploring how data, statistics, and machine learning can solve everyday problems and drive better decisions.
+**Data science enthusiast** focused on turning raw data into real-world insights. I enjoy working with **data, statistics, and machine learning** to solve practical problems and support better decisions.
 
-- 💻 Tools of the Trade: Python, Pandas, NumPy, Matplotlib, Scikit-learn, SQL,Pytorch, Tensorflow and a growing love for AI and deep learning.
+My work revolves around **Python, Pandas, NumPy, SQL, and tools like Scikit-learn, PyTorch, and TensorFlow**, with a growing focus on **AI and deep learning**. I’m currently diving deeper into deep learning while building small, hands-on projects to strengthen my understanding.
 
-- 🛠️ I believe in learning by doing—projects are my favorite way to grow.
-
-- #### 📈 Current Focus:
-  
-    - 🔭 I’m currently studying deep learning and building mini projects based on it.
-    - Working on personal data projects involving time regression, classification, and visual storytelling with data. Also exploring web dashboards and polishing my personal portfolio website.
-
-- 🌱 Always learning something new: from algorithms to storytelling, and from Jupyter notebooks to production-ready pipelines.
-
-- 🧩 Let’s connect, explore and conquer the world of data together!
+I learn by building. Whether it’s regression, classification, or visual storytelling, I prefer turning ideas into working projects. I also explore dashboards and continuously improve my portfolio, aiming to move from notebooks to more complete, real-world systems.
 <hr>
 
 ## 👬 Let's Get Connected!
