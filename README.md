@@ -12,7 +12,7 @@ My work revolves around **Python, Pandas, NumPy, SQL, and tools like Scikit-lear
 
 I learn by building. Whether it’s regression, classification, or visual storytelling, I prefer turning ideas into working projects. I also explore dashboards and continuously improve my portfolio, aiming to move from notebooks to more complete, real-world systems.
 
-In present, I am pursuing my **Master's degree in AI** by research from **[Madan Bhandari University of Science and Technology](https://www.mbust.edu.np/)** Nepal.
+In present, I am pursuing my **Master's degree in AI** by research from **[Madan Bhandari University of Science and Technology](https://www.mbust.edu.np/)** Nepal and resarching in the domain of computer vision.
 <hr>
 
 ## 👬 Let's Get Connected!
