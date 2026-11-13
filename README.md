@@ -1,7 +1,7 @@
 <img src="./banner.svg" width="100%" />
 
 # Hey Aliens! <img src="https://media.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" alt="waving hand picture gif" width='50'>
-## <a href="https://www.dilliramchaudhary.com.np/" target="_blank">Know me more!</a>,
+## <a href="https://www.dilliramchaudhary.com.np/" target="_blank">Know me more!</a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=650&color=e3ff00&center=true&vCenter=true&width=800&lines=Aspiring+AI+Scientist!;Machine+Learning+Enthusiast!;AI+Researcher!" alt="Typing SVG" />
 
 ## ☆ About Me  
